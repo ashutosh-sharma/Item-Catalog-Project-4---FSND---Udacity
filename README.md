@@ -1,7 +1,6 @@
 # Item-Catalog-Project-4---FSND---Udacity
-======
 
-### Project Overview
+### Overview of the Project:
 > An application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.
 
 ### Why I made this Project?
@@ -10,8 +9,9 @@
 ### What I have Learned?
 > I have learned to develop a RESTful web application using the **Python framework Flask along with implementing third-party OAuth authentication**. I have also learned when to properly use the various available HTTP methods and how these methods relate to CRUD (create, read, update and delete) operations.
 
-### Getting Started - Run the application
 _____
+
+### Getting Started - Run the application 🏃
 
 #### PreRequisites
   * [Python ~2.7](https://www.python.org/)
@@ -51,5 +51,5 @@ _____
  
  ### Acknowledgments
     
-    Hat tip to Udacity's Full Stack Web development team and to anybody who helped me.
+    Hat tip to Udacity's Full Stack Web development team and to anybody who helped me. 👏👏👏
     
