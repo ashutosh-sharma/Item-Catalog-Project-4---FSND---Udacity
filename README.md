@@ -3,6 +3,8 @@
 ### Overview of the Project:
 > An application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.
 
+### [![Live](https://cdn1.iconfinder.com/data/icons/computer-and-web-1/164/Launch-64.png)Live Project](http://www.13.232.97.166.xip.io)
+
 ### Why I made this Project?
 > Modern web applications perform a variety of functions and provide amazing features and utilities to their users. But deep down, it’s really all just **CRUD creating, reading, updating and deleting data**. In this project, I am combining knowledge of building dynamic websites with persistent data storage to create a web application that provides a compelling service to the users.
 
